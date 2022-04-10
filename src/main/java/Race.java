@@ -7,5 +7,4 @@ public class Race {
     public Race(Stage... stages) {
         this.stages = new ArrayList<>(Arrays.asList(stages));
     }
-
 }
